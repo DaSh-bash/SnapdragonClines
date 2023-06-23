@@ -74,3 +74,16 @@ Amajus_MYBML3_MYB306    GWHPBJVT008207  75.573  131     32      0       1       
 Amajus_MYBML3_MYB306    GWHPBJVT025018  75.472  106     26      0       11      116     2       107     2.79e-56        179
 Amajus_F3-5-H_MYBML2    GWHPBJVT036665  75.194  129     32      0       1       129     1       129     8.52e-73        229
 Amajus_MYBML3_MYB306    GWHPBJVT036664  74.809  131     33      0       1       131     1       131     1.39e-69        216
+
+
+#Catching up after a break and loosing stuff
+
+#1. I selected genes from the region to annotate their functions, produced list of genes: cand_genes_Chr5_RUBIA.txt
+#2. Created fasta file of genes cand_genes_prelnames_Chr5_RUBIA.fasta
+#3. This file is annotated with eggnogg and BLAST, outputting
+
+#4. I'm missing coordinates, getting them
+awk '$1 == "GWHBJVT00000005" && $3 == "mRNA" && $4 > 6100000 && $5 < 6400000' GWHBJVT00000000.gff
+
+#5. Blast polished manually in excel
+#6. Blasting to version 3 of the genome
