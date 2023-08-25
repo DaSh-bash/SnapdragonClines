@@ -1,0 +1,1491 @@
+RID: 9PK8MGFE016	
+Job Title:23 sequences (GWHTBJVT009008)				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: GWHTBJVT009008 Query ID: lcl|Query_63631 Length: 131
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein Pfo_023110 [Paulownia fortunei]              Paulownia fo... NA              586722     154    154   91%   5e-45 67.48  148        KAI3466447.1     
+Acyl carrier protein/NADH-ubiquinone oxidoreductase,...           Handroanthus... NA              429701     152    152   100%  2e-44 57.79  150        PIN18680.1       
+uncharacterized protein LOC105176643 [Sesamum indicum]            Sesamum indicum sesame          4182       147    147   97%   2e-42 57.43  148        XP_011097814.1   
+acyl carrier protein, chloroplastic-like [Coffea arabica]         Coffea arabica  coffee          13443      146    146   67%   6e-42 83.15  153        XP_027076644.1   
+uncharacterized protein LOC109844826 [Asparagus officinalis]      Asparagus of... garden aspar... 4686       145    145   83%   2e-41 65.52  148        XP_020269565.1   
+acyl carrier protein, chloroplastic-like [Coffea arabica]         Coffea arabica  coffee          13443      145    145   67%   2e-41 83.15  153        XP_027073337.1   
+hypothetical protein LOK49_LG14G02208 [Camellia lanceoleosa]      Camellia lan... NA              1840588    144    144   68%   6e-41 81.11  148        KAI7985661.1     
+acyl carrier protein 4 [Perilla frutescens var. frutescens]       Perilla frut... NA              151328     141    141   69%   1e-40 78.02  88         KAH6768062.1     
+uncharacterized protein LOC113778006 [Coffea eugenioides]         Coffea eugen... NA              49369      143    143   67%   1e-40 80.90  152        XP_027179050.1   
+hypothetical protein HYC85_027884 [Camellia sinensis]             Camellia sin... NA              4442       142    142   68%   1e-40 81.11  116        KAF5931713.1     
+uncharacterized protein LOC114261176 isoform X2 [Camellia...      Camellia sin... NA              4442       142    142   68%   1e-40 81.11  148        XP_028057186.1   
+Acyl carrier protein [Parasponia andersonii]                      Parasponia a... NA              3476       143    143   68%   2e-40 78.89  158        PON45132.1       
+PREDICTED: acyl carrier protein 1, chloroplastic-like...          Erythranthe ... spotted monk... 4155       142    142   83%   2e-40 70.91  141        XP_012849358.1   
+acyl carrier protein-like [Salvia hispanica]                      Salvia hispa... NA              49212      142    142   91%   2e-40 61.79  119        XP_047957679.1   
+uncharacterized protein LOC114261176 isoform X1 [Camellia...      Camellia sin... NA              4442       142    142   68%   2e-40 81.11  149        XP_028057183.1   
+acyl carrier protein-like [Salvia splendens]                      Salvia splen... NA              180675     142    142   90%   2e-40 63.64  142        XP_042056162.1   
+hypothetical protein TEA_029736 [Camellia sinensis var. sinensis] Camellia sin... NA              542762     142    142   68%   4e-40 81.11  170        THG19786.1       
+hypothetical protein MIMGU_mgv1a026851mg [Erythranthe guttata]    Erythranthe ... spotted monk... 4155       139    139   67%   6e-40 80.90  98         EYU27403.1       
+hypothetical protein Pint_13626 [Pistacia integerrima]            Pistacia int... NA              434235     141    141   96%   7e-40 63.78  153        KAJ0030196.1     
+uncharacterized protein LOC101259690 [Solanum lycopersicum]       Solanum lyco... tomato          4081       139    139   96%   9e-40 61.42  112        XP_019067562.1   
+hypothetical protein L1987_45359 [Smallanthus sonchifolius]       Smallanthus ... NA              185202     140    140   97%   1e-39 59.26  141        KAI3786224.1     
+hypothetical protein Patl1_13726 [Pistacia atlantica]             Pistacia atl... NA              434234     140    140   96%   1e-39 62.60  153        KAJ0089514.1     
+hypothetical protein L6164_004172 [Bauhinia variegata]            Bauhinia var... NA              167791     140    140   100%  1e-39 51.59  154        KAI4355393.1     
+hypothetical protein L1987_67191 [Smallanthus sonchifolius]       Smallanthus ... NA              185202     140    140   78%   1e-39 71.84  144        KAI3727377.1     
+acyl carrier protein-like [Helianthus annuus]                     Helianthus a... common sunfl... 4232       140    140   78%   2e-39 72.82  135        XP_035833958.1   
+uncharacterized protein LOC127795894 [Diospyros lotus]            Diospyros lotus NA              55363      140    140   88%   2e-39 65.52  154        XP_052183827.1   
+hypothetical protein KY289_013776 [Solanum tuberosum]             Solanum tube... potato          4113       140    140   64%   2e-39 82.35  150        KAH0696294.1     
+Acyl carrier protein [Trema orientale]                            Trema orientale NA              63057      140    140   68%   2e-39 77.78  147        PON62563.1       
+PREDICTED: acyl carrier protein-like [Solanum tuberosum]          Solanum tube... potato          4113       139    139   64%   2e-39 82.35  126        XP_015165558.1   
+hypothetical protein HHK36_032802 [Tetracentron sinense]          Tetracentron... NA              13715      140    140   84%   2e-39 69.91  152        KAF8365181.1     
+hypothetical protein K7X08_033879 [Anisodus acutangulus]          Anisodus acu... NA              402998     140    140   90%   2e-39 64.41  150        KAJ8550172.1     
+hypothetical protein EJD97_012530 [Solanum chilense]              Solanum chil... NA              4083       139    139   96%   2e-39 61.70  140        TMW92817.1       
+acyl carrier protein 1, chloroplastic-like [Pistacia vera]        Pistacia vera   NA              55513      140    140   74%   3e-39 74.49  153        XP_031287013.1   
+hypothetical protein H5410_005988 [Solanum commersonii]           Solanum comm... Commerson's ... 4109       139    139   64%   3e-39 82.35  150        KAG5620770.1     
+hypothetical protein HHK36_014445 [Tetracentron sinense]          Tetracentron... NA              13715      139    139   68%   3e-39 80.00  155        KAF8401141.1     
+hypothetical protein JRO89_XS03G0301600 [Xanthoceras sorbifolium] Xanthoceras ... NA              99658      139    139   97%   3e-39 55.26  154        KAH7574481.1     
+acyl carrier protein, chloroplastic-like [Mangifera indica]       Mangifera in... mango           29780      139    139   96%   4e-39 62.99  154        XP_044472198.1   
+acyl carrier protein 1, chloroplastic [Rosa chinensis]            Rosa chinensis  NA              74649      139    139   66%   4e-39 80.46  152        XP_024183838.1   
+hypothetical protein CXB51_014580 [Gossypium anomalum]            Gossypium an... NA              47600      139    139   89%   4e-39 63.93  154        KAG8491385.1     
+acyl carrier protein 1, chloroplastic [Jatropha curcas]           Jatropha curcas NA              180498     139    139   74%   4e-39 74.23  153        XP_012077157.2   
+acyl carrier protein 1, chloroplastic-like [Solanum dulcamara]    Solanum dulc... NA              45834      137    137   59%   4e-39 85.90  89         XP_055803449.1   
+hypothetical protein JCGZ_07571 [Jatropha curcas]                 Jatropha curcas NA              180498     139    139   74%   4e-39 74.23  139        KDP34000.1       
+Acyl carrier protein (ACP) [Corchorus capsularis]                 Corchorus ca... NA              210143     139    139   67%   6e-39 80.90  152        OMO67063.1       
+unnamed protein product [Lactuca saligna]                         Lactuca saligna NA              75948      138    138   99%   7e-39 55.78  144        CAI9280899.1     
+Acyl carrier protein 1 [Dorcoceras hygrometricum]                 Dorcoceras h... NA              472368     142    142   100%  7e-39 54.90  269        KZV56372.1       
+acyl carrier protein 1, chloroplastic-like [Nicotiana...          Nicotiana to... NA              4098       138    138   65%   8e-39 82.56  153        XP_009629425.1   
+acyl carrier protein 1, chloroplastic-like [Gossypium australe]   Gossypium au... NA              47621      138    138   96%   8e-39 57.05  154        KAA3477345.1     
+acyl carrier protein-like [Erigeron canadensis]                   Erigeron can... NA              72917      138    138   75%   1e-38 72.28  144        XP_043616428.1   
+hypothetical protein L6452_07871 [Arctium lappa]                  Arctium lappa   great burdock   4217       137    137   99%   1e-38 59.85  134        KAI3759802.1     
+acyl carrier protein-like [Juglans regia]                         Juglans regia   English walnut  51240      138    138   70%   1e-38 78.49  154        XP_018839180.1   
+putative Acyl carrier protein (ACP) [Helianthus annuus]           Helianthus a... common sunfl... 4232       135    135   61%   2e-38 86.25  82         KAJ0528305.1     
+hypothetical protein L1887_10789 [Cichorium endivia]              Cichorium en... NA              114280     137    137   99%   2e-38 55.78  144        KAI3521326.1     
+putative Acyl carrier protein (ACP) [Helianthus annuus]           Helianthus a... common sunfl... 4232       135    135   61%   2e-38 86.25  90         KAJ0537228.1     
+uncharacterized protein LOC125847123 [Solanum stenotomum]         Solanum sten... NA              172797     136    136   64%   2e-38 80.95  126        XP_049382774.1   
+hypothetical protein J1N35_034970 [Gossypium stocksii]            Gossypium st... NA              47602      137    137   96%   2e-38 58.91  154        KAH1056905.1     
+PREDICTED: acyl carrier protein 1, chloroplastic-like [Daucus...  Daucus carot... NA              79200      137    137   74%   2e-38 75.26  154        XP_017218667.1   
+uncharacterized protein LOC107009927 [Solanum pennellii]          Solanum penn... NA              28526      135    135   96%   3e-38 60.63  112        XP_027769981.1   
+Acyl carrier protein 1 [Spatholobus suberectus]                   Spatholobus ... NA              455371     137    137   64%   3e-38 81.18  154        TKY64227.1       
+hypothetical protein L2E82_16409 [Cichorium intybus]              Cichorium in... chicory         13427      137    137   99%   3e-38 55.10  144        KAI3766354.1     
+uncharacterized protein LOC7491973 [Populus trichocarpa]          Populus tric... black cotton... 3694       136    136   62%   3e-38 82.93  128        XP_052309720.1   
+uncharacterized protein LOC111883556 [Lactuca sativa]             Lactuca sativa  garden lettuce  4236       136    136   99%   3e-38 55.10  144        XP_023735645.1   
+hypothetical protein H0E87_012053 [Populus deltoides]             Populus delt... NA              3696       137    137   74%   3e-38 73.47  151        KAH8504669.1     
+PREDICTED: uncharacterized protein LOC109177863 [Ipomoea nil]     Ipomoea nil     Japanese mor... 35883      137    137   68%   4e-38 77.78  151        XP_019182883.1   
+hypothetical protein BDE02_06G189200 [Populus trichocarpa]        Populus tric... black cotton... 3694       137    137   74%   4e-38 73.47  151        KAI5586085.1     
+acyl carrier protein 1, chloroplastic-like [Potentilla anserina]  Potentilla a... silverweed c... 57926      137    137   66%   4e-38 79.31  151        XP_050383889.1   
+Acyl carrier protein (ACP) [Artemisia annua]                      Artemisia annua sweet wormwood  35608      136    136   65%   4e-38 80.23  143        PWA43563.1       
+hypothetical protein OSB04_004467 [Centaurea solstitialis]        Centaurea so... NA              347529     136    136   74%   4e-38 71.00  148        KAJ9568501.1     
+acyl carrier protein 1, chloroplastic-like [Gossypium hirsutum]   Gossypium hi... cotton          3635       137    137   90%   4e-38 59.26  154        XP_016682306.2   
+hypothetical protein LSAT_V11C400193510 [Lactuca sativa]          Lactuca sativa  garden lettuce  4236       136    136   99%   4e-38 55.10  150        KAJ0211615.1     
+acyl carrier protein 1, chloroplastic-like [Gossypium arboreum]   Gossypium ar... NA              29729      137    137   90%   4e-38 59.26  154        XP_052885181.1   
+acyl carrier protein 5 [Prunus dulcis]                            Prunus dulcis   almond          3755       135    135   82%   5e-38 66.36  116        BBG98753.1       
+uncharacterized protein LOC112511668 [Cynara cardunculus var....  Cynara cardu... NA              59895      136    136   65%   5e-38 79.07  134        XP_024973142.1   
+hypothetical protein CICLE_v10010174mg [Citrus clementina]        Citrus cleme... NA              85681      136    136   84%   5e-38 66.07  156        ESR66180.1       
+PREDICTED: acyl carrier protein-like [Nicotiana tabacum]          Nicotiana ta... common tobacco  4097       135    135   59%   5e-38 85.90  121        XP_016453387.1   
+acyl carrier protein 1, chloroplastic-like [Tanacetum...          Tanacetum ci... NA              118510     136    136   97%   5e-38 57.64  143        GEW29568.1       
+acyl carrier protein, chloroplastic [Cannabis sativa]             Cannabis sativa NA              3483       136    136   67%   5e-38 78.65  157        XP_030490866.1   
+hypothetical protein SADUNF_Sadunf06G0171200 [Salix dunnii]       Salix dunnii    NA              1413687    136    136   74%   6e-38 72.45  151        KAF9680914.1     
+hypothetical protein E3N88_21497 [Mikania micrantha]              Mikania micr... NA              192012     135    135   87%   6e-38 62.28  139        KAD4889424.1     
+hypothetical protein CISIN_1g031600mg [Citrus sinensis]           Citrus sinensis sweet orange    2711       136    136   84%   6e-38 66.07  156        KDO73684.1       
+hypothetical protein F8388_021501 [Cannabis sativa]               Cannabis sativa NA              3483       136    136   67%   7e-38 78.65  157        KAF4368889.1     
+acyl carrier protein 2, chloroplastic [Gossypium raimondii]       Gossypium ra... Peruvian cotton 29730      136    136   84%   8e-38 63.48  154        XP_012450719.1   
+hypothetical protein L3X38_015952 [Prunus dulcis]                 Prunus dulcis   almond          3755       135    135   82%   9e-38 66.36  152        KAI5336684.1     
+acyl carrier protein [Pyrus ussuriensis x Pyrus communis]         Pyrus ussuri... NA              2448454    135    135   66%   9e-38 79.31  153        KAB2610993.1     
+hypothetical protein CUMW_029800 [Citrus unshiu]                  Citrus unshiu   NA              55188      136    136   84%   9e-38 66.07  156        GAY37541.1       
+acyl carrier protein 1, chloroplastic-like [Citrus sinensis]      Citrus sinensis sweet orange    2711       136    136   68%   9e-38 77.78  156        XP_015384542.1   
+acyl carrier protein, chloroplastic-like [Pyrus x bretschneideri] Pyrus x bret... Chinese whit... 225117     135    135   66%   1e-37 79.31  153        XP_018507795.2   
+hypothetical protein KY285_013134 [Solanum tuberosum]             Solanum tube... potato          4113       139    139   64%   1e-37 82.35  264        KAH0717103.1     
+acyl carrier protein, chloroplastic-like [Mangifera indica]       Mangifera in... mango           29780      135    135   74%   1e-37 72.45  153        XP_044464942.1   
+acyl carrier protein 1 chloroplastic-like [Prunus yedoensis va... Prunus yedoe... NA              2094558    135    135   82%   1e-37 66.36  152        PQM40448.1       
+uncharacterized protein LOC110411676 [Herrania umbratica]         Herrania umb... NA              108875     135    135   83%   1e-37 65.18  152        XP_021277612.1   
+PREDICTED: acyl carrier protein 1, chloroplastic-like [Prunus...  Prunus mume     Japanese apr... 102107     135    135   82%   1e-37 66.36  152        XP_008228349.1   
+acyl carrier protein 1, chloroplastic [Prunus persica]            Prunus persica  peach           3760       135    135   82%   1e-37 66.36  152        XP_020416548.1   
+hypothetical protein GBA52_009468 [Prunus armeniaca]              Prunus armen... apricot         36596      135    135   82%   1e-37 66.36  152        KAH0982291.1     
+Acyl carrier protein (ACP) [Corchorus olitorius]                  Corchorus ol... NA              93759      135    135   67%   2e-37 78.65  152        OMO86422.1       
+hypothetical protein MRB53_029549 [Persea americana]              Persea ameri... avocado         3435       135    135   85%   2e-37 66.96  154        KAJ8621020.1     
+acyl carrier protein 1 [Pyrus ussuriensis x Pyrus communis]       Pyrus ussuri... NA              2448454    135    135   66%   2e-37 79.31  153        KAB2613109.1     
+acyl carrier protein 1, chloroplastic-like [Durio zibethinus]     Durio zibeth... NA              66656      135    135   95%   2e-37 58.91  152        XP_022730997.1   
+hypothetical protein C1H46_005668 [Malus baccata]                 Malus baccata   NA              106549     135    135   66%   2e-37 79.31  153        TQE08684.1       
+hypothetical protein E1A91_D06G096000v1 [Gossypium mustelinum]    Gossypium mu... NA              34275      135    135   84%   2e-37 63.48  154        TYI76716.1       
+acyl carrier protein 1, chloroplastic-like [Malus domestica]      Malus domestica apple           3750       135    135   66%   2e-37 79.31  153        XP_008380816.2   
+
+
+Alignments:
+
+>hypothetical protein Pfo_023110 [Paulownia fortunei]
+Sequence ID: KAI3466447.1 Length: 148
+Range 1: 28 to 145
+
+Score:154 bits(389), Expect:5e-45, 
+Method:Compositional matrix adjust., 
+Identities:83/123(67%), Positives:100/123(81%), Gaps:8/123(6%)
+
+Query  9    SAPAFSITQRS---SVVPQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAK  65
+            SA AF  T R+   ++VP++ Q    K   F  K+  ISCA+   AQPET+++V+STIAK
+Sbjct  28   SAAAFLTTPRAVGLNLVPKISQISVTKARSF--KSARISCAV---AQPETLQVVQSTIAK  82
+
+Query  66   QLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEK  125
+            QLSI+EG+VTPQTKF+DLGADSLDTVEIMMALEE+FGVSIGE GAE+IATVQ+AADLIEK
+Sbjct  83   QLSIEEGSVTPQTKFIDLGADSLDTVEIMMALEEKFGVSIGEGGAENIATVQDAADLIEK  142
+
+Query  126  VKA  128
+            VKA
+Sbjct  143  VKA  145
+
+
+
+
+>Acyl carrier protein/NADH-ubiquinone oxidoreductase, NDUFAB1/SDAP subunit [Handroanthus impetiginosus]
+Sequence ID: PIN18680.1 Length: 150
+Range 1: 1 to 150
+
+Score:152 bits(385), Expect:2e-44, 
+Method:Compositional matrix adjust., 
+Identities:89/154(58%), Positives:108/154(70%), Gaps:27/154(17%)
+
+Query  1    MASATSTLSAP-------------------AFSITQRSSVV----PQVCQFRDIKRGRFL  37
+            MAS  ST++AP                   AF +T  ++VV    P++ Q   ++  R  
+Sbjct  1    MASVASTIAAPPPTATILRPSTPGSKPSTAAF-LTMPTAVVLKLEPKISQIPVLETRRCF  59
+
+Query  38   NKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMAL  97
+             K   +SCA+   AQPET+ +V+STIAKQLSI+EG+VTPQTKFVDLGADSLDTVEIMMAL
+Sbjct  60   KKPRLVSCAV---AQPETLHVVQSTIAKQLSIEEGSVTPQTKFVDLGADSLDTVEIMMAL  116
+
+Query  98   EEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            EE+FGVSIGESGAE+IATVQ+AADLIEKVK  AA
+Sbjct  117  EEKFGVSIGESGAENIATVQDAADLIEKVKTAAA  150
+
+
+
+
+>uncharacterized protein LOC105176643 [Sesamum indicum]
+Sequence ID: XP_011097814.1 Length: 148
+Range 1: 1 to 145
+
+Score:147 bits(372), Expect:2e-42, 
+Method:Compositional matrix adjust., 
+Identities:85/148(57%), Positives:101/148(68%), Gaps:23/148(15%)
+
+Query  1    MASATSTLSAPAFSITQRSSVV----PQVCQFRDIKRG---RFLN-------------KT  40
+            MAS  STL AP  + T    +     P    F    R    +F++             K+
+Sbjct  1    MASLASTLPAPPAATTSHGRIASGAKPSATVFLTTPRAVGLKFVSRISQIPVTKSRSFKS  60
+
+Query  41   LSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQ  100
+              ISCA+   A+PET+++V+STIAKQLSIDEG+VTPQTKF DLGADSLDTVEIMMALEE+
+Sbjct  61   TRISCAV---AEPETLQVVQSTIAKQLSIDEGSVTPQTKFADLGADSLDTVEIMMALEEK  117
+
+Query  101  FGVSIGESGAESIATVQEAADLIEKVKA  128
+            FGVSIGE GAE+IATVQ+AADLIEKVKA
+Sbjct  118  FGVSIGEGGAENIATVQDAADLIEKVKA  145
+
+
+
+
+>acyl carrier protein, chloroplastic-like [Coffea arabica]
+Sequence ID: XP_027076644.1 Length: 153
+Range 1: 68 to 153
+
+Score:146 bits(369), Expect:6e-42, 
+Method:Compositional matrix adjust., 
+Identities:74/89(83%), Positives:83/89(93%), Gaps:3/89(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC   +AAQPET+EIV++TIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  68   ISC---SAAQPETLEIVQNTIAKQLSIDEATVTPQTKFADLGADSLDTVEIMMALEEKFG  124
+
+Query  103  VSIGESGAESIATVQEAADLIEKVKAEAA  131
+            VSIGESGAE++ATVQ+AADLIEKVKA +A
+Sbjct  125  VSIGESGAENVATVQDAADLIEKVKAASA  153
+
+
+
+
+>uncharacterized protein LOC109844826 [Asparagus officinalis]
+Sequence ID: XP_020269565.1 Length: 148
+>uncharacterized protein A4U43_C06F3650 [Asparagus officinalis]
+Sequence ID: ONK66050.1 Length: 148 
+Range 1: 39 to 148
+
+Score:145 bits(365), Expect:2e-41, 
+Method:Compositional matrix adjust., 
+Identities:76/116(66%), Positives:92/116(79%), Gaps:12/116(10%)
+
+Query  22   VPQVCQFRDIKRG------RFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVT  75
+            +P+  Q + + +       RF +K   ISC++   AQPET+EIV++TIAKQLSIDE TVT
+Sbjct  39   LPRSIQLKGVTKSSLPFSRRFKSK---ISCSV---AQPETLEIVQNTIAKQLSIDETTVT  92
+
+Query  76   PQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            P TKF DLGADSLDTVEIMMALEE+FGVSIGE GAE+++TVQ+A DLIEKVKAEAA
+Sbjct  93   PHTKFADLGADSLDTVEIMMALEEEFGVSIGEGGAENVSTVQDAVDLIEKVKAEAA  148
+
+
+
+
+>acyl carrier protein, chloroplastic-like [Coffea arabica]
+Sequence ID: XP_027073337.1 Length: 153
+>unnamed protein product [Coffea canephora]
+Sequence ID: CDP01749.1 Length: 153 
+Range 1: 68 to 153
+
+Score:145 bits(366), Expect:2e-41, 
+Method:Compositional matrix adjust., 
+Identities:74/89(83%), Positives:82/89(92%), Gaps:3/89(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC    AAQPET+EIV++TIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  68   ISCL---AAQPETLEIVQNTIAKQLSIDEATVTPQTKFADLGADSLDTVEIMMALEEKFG  124
+
+Query  103  VSIGESGAESIATVQEAADLIEKVKAEAA  131
+            VSIGESGAE++ATVQ+AADLIEKVKA +A
+Sbjct  125  VSIGESGAENVATVQDAADLIEKVKAASA  153
+
+
+
+
+>hypothetical protein LOK49_LG14G02208 [Camellia lanceoleosa]
+Sequence ID: KAI7985661.1 Length: 148
+Range 1: 62 to 148
+
+Score:144 bits(362), Expect:6e-41, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:83/90(92%), Gaps:3/90(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET+EIV+STIAKQLSIDE TV+PQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  62   TISCSI---AQPETLEIVQSTIAKQLSIDESTVSPQTKFADLGADSLDTVEIMMALEEKF  118
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVS+GE GAE+IATVQ+AADLIEKVKA +A
+Sbjct  119  GVSVGEGGAENIATVQDAADLIEKVKAASA  148
+
+
+
+
+>acyl carrier protein 4 [Perilla frutescens var. frutescens]
+Sequence ID: KAH6768062.1 Length: 88
+>acyl carrier protein 4 [Perilla frutescens var. frutescens]
+Sequence ID: KAH6778569.1 Length: 88
+>acyl carrier protein 4 [Perilla frutescens var. hirtella]
+Sequence ID: KAH6786326.1 Length: 88
+>acyl carrier protein 4 [Perilla frutescens var. hirtella]
+Sequence ID: KAH6822697.1 Length: 88 
+Range 1: 1 to 88
+
+Score:141 bits(355), Expect:1e-40, 
+Method:Compositional matrix adjust., 
+Identities:71/91(78%), Positives:82/91(90%), Gaps:3/91(3%)
+
+Query  41   LSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQ  100
+            + +SCA+   AQPET+++V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+
+Sbjct  1    MRVSCAV---AQPETLQVVQSTIAKQLSIDEVTVTPQTKFADLGADSLDTVEIMMALEEK  57
+
+Query  101  FGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            FGVS+GE GAE+IATVQ+AADLIEKVK  AA
+Sbjct  58   FGVSVGEGGAENIATVQDAADLIEKVKTAAA  88
+
+
+
+
+>uncharacterized protein LOC113778006 [Coffea eugenioides]
+Sequence ID: XP_027179050.1 Length: 152
+Range 1: 68 to 152
+
+Score:143 bits(360), Expect:1e-40, 
+Method:Compositional matrix adjust., 
+Identities:72/89(81%), Positives:82/89(92%), Gaps:4/89(4%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+    AQPET+EIV++TIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  68   ISCS----AQPETLEIVQNTIAKQLSIDEATVTPQTKFADLGADSLDTVEIMMALEEKFG  123
+
+Query  103  VSIGESGAESIATVQEAADLIEKVKAEAA  131
+            VSIGESGAE++ATVQ+AADLIEKVK+ +A
+Sbjct  124  VSIGESGAENVATVQDAADLIEKVKSASA  152
+
+
+
+
+>hypothetical protein HYC85_027884 [Camellia sinensis]
+Sequence ID: KAF5931713.1 Length: 116
+Range 1: 30 to 116
+
+Score:142 bits(357), Expect:1e-40, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:83/90(92%), Gaps:3/90(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET+EIV+STIAKQLSIDE TV+PQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  30   TISCSI---AQPETLEIVQSTIAKQLSIDECTVSPQTKFADLGADSLDTVEIMMALEEKF  86
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVS+GE GAE+IATVQ+AADLIEKVKA +A
+Sbjct  87   GVSVGEGGAENIATVQDAADLIEKVKAASA  116
+
+
+
+
+>uncharacterized protein LOC114261176 isoform X2 [Camellia sinensis]
+Sequence ID: XP_028057186.1 Length: 148
+Range 1: 62 to 148
+
+Score:142 bits(359), Expect:1e-40, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:83/90(92%), Gaps:3/90(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET+EIV+STIAKQLSIDE TV+PQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  62   TISCSI---AQPETLEIVQSTIAKQLSIDECTVSPQTKFADLGADSLDTVEIMMALEEKF  118
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVS+GE GAE+IATVQ+AADLIEKVKA +A
+Sbjct  119  GVSVGEGGAENIATVQDAADLIEKVKAASA  148
+
+
+
+
+>Acyl carrier protein [Parasponia andersonii]
+Sequence ID: PON45132.1 Length: 158
+Range 1: 69 to 158
+
+Score:143 bits(360), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:71/90(79%), Positives:82/90(91%), Gaps:0/90(0%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I  +AQPET++ V+STIAKQLSIDE +VTP TKF DLGADSLDTVEIMMALEE+F
+Sbjct  69   TISCSINASAQPETLKTVQSTIAKQLSIDENSVTPSTKFADLGADSLDTVEIMMALEEKF  128
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVSIGE GAE+I+TVQ+AADLIEKVKA AA
+Sbjct  129  GVSIGEEGAENISTVQDAADLIEKVKAAAA  158
+
+
+
+
+>PREDICTED: acyl carrier protein 1, chloroplastic-like [Erythranthe guttata]
+Sequence ID: XP_012849358.1 Length: 141
+>PREDICTED: acyl carrier protein 1, chloroplastic-like [Erythranthe guttata]
+Sequence ID: XP_012849360.1 Length: 141 
+Range 1: 40 to 140
+
+Score:142 bits(358), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:78/110(71%), Positives:89/110(80%), Gaps:10/110(9%)
+
+Query  23   PQVCQFRDIK-RGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFV  81
+            P++ QF   K R R       I CAI  AAQPET+++V+STIAKQLSI+EG V P+TKFV
+Sbjct  40   PKISQFAATKARPR-------ICCAI--AAQPETLQVVQSTIAKQLSIEEGAVAPETKFV  90
+
+Query  82   DLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            DLGADSLDTVEIMMALEE+FGVSIGE GA+SIATVQ+AADLIEKVK  AA
+Sbjct  91   DLGADSLDTVEIMMALEEKFGVSIGEDGAQSIATVQDAADLIEKVKTAAA  140
+
+
+
+
+>acyl carrier protein-like [Salvia hispanica]
+Sequence ID: XP_047957679.1 Length: 119
+Range 1: 7 to 118
+
+Score:142 bits(357), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:76/123(62%), Positives:95/123(77%), Gaps:14/123(11%)
+
+Query  11   PAFSITQRSSVV---PQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQL  67
+            P FSI+QR  V+   P++ +   + + R L+           AAQP+T+++V+STIAKQL
+Sbjct  7    PLFSISQRGPVLRLAPKISRTH-VTKWRVLS----------AAAQPDTLQVVQSTIAKQL  55
+
+Query  68   SIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVK  127
+            S++E TVTPQTKF DLGADSLDTVEIMM LEE+FGVS+GESGAESIATVQ+AADLIEKVK
+Sbjct  56   SVEECTVTPQTKFADLGADSLDTVEIMMTLEEKFGVSVGESGAESIATVQDAADLIEKVK  115
+
+Query  128  AEA  130
+            + A
+Sbjct  116  SAA  118
+
+
+
+
+>uncharacterized protein LOC114261176 isoform X1 [Camellia sinensis]
+Sequence ID: XP_028057183.1 Length: 149
+>uncharacterized protein LOC114261176 isoform X1 [Camellia sinensis]
+Sequence ID: XP_028057184.1 Length: 149
+>uncharacterized protein LOC114261176 isoform X1 [Camellia sinensis]
+Sequence ID: XP_028057185.1 Length: 149 
+Range 1: 62 to 149
+
+Score:142 bits(359), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:83/90(92%), Gaps:2/90(2%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET+EIV+STIAKQLSIDE TV+PQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  62   TISCSI--QAQPETLEIVQSTIAKQLSIDECTVSPQTKFADLGADSLDTVEIMMALEEKF  119
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVS+GE GAE+IATVQ+AADLIEKVKA +A
+Sbjct  120  GVSVGEGGAENIATVQDAADLIEKVKAASA  149
+
+
+
+
+>acyl carrier protein-like [Salvia splendens]
+Sequence ID: XP_042056162.1 Length: 142
+>hypothetical protein SASPL_111415 [Salvia splendens]
+Sequence ID: KAG6427175.1 Length: 142 
+Range 1: 32 to 141
+
+Score:142 bits(358), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:77/121(64%), Positives:95/121(78%), Gaps:14/121(11%)
+
+Query  13   FSITQRSSVV---PQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSI  69
+            FS++ R  V+   P++   R + + R L       CA+   AQP+T+++V+STIAKQLS+
+Sbjct  32   FSLSPRVPVLRLAPKISHNR-VTKWRVL-------CAV---AQPDTLKVVQSTIAKQLSV  80
+
+Query  70   DEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAE  129
+            +E TVTPQTKF DLGADSLDTVEIMMALEE+FGVS+GESGAESIATVQ+AADLIEKVKA 
+Sbjct  81   EEFTVTPQTKFADLGADSLDTVEIMMALEEKFGVSVGESGAESIATVQDAADLIEKVKAA  140
+
+Query  130  A  130
+            A
+Sbjct  141  A  141
+
+
+
+
+>hypothetical protein TEA_029736 [Camellia sinensis var. sinensis]
+Sequence ID: THG19786.1 Length: 170
+Range 1: 84 to 170
+
+Score:142 bits(359), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:83/90(92%), Gaps:3/90(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET+EIV+STIAKQLSIDE TV+PQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  84   TISCSI---AQPETLEIVQSTIAKQLSIDECTVSPQTKFADLGADSLDTVEIMMALEEKF  140
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVS+GE GAE+IATVQ+AADLIEKVKA +A
+Sbjct  141  GVSVGEGGAENIATVQDAADLIEKVKAASA  170
+
+
+
+
+>hypothetical protein MIMGU_mgv1a026851mg, partial [Erythranthe guttata]
+Sequence ID: EYU27403.1 Length: 98
+Range 1: 11 to 97
+
+Score:139 bits(351), Expect:6e-40, 
+Method:Compositional matrix adjust., 
+Identities:72/89(81%), Positives:81/89(91%), Gaps:2/89(2%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            I CAI  AAQPET+++V+STIAKQLSI+EG V P+TKFVDLGADSLDTVEIMMALEE+FG
+Sbjct  11   ICCAI--AAQPETLQVVQSTIAKQLSIEEGAVAPETKFVDLGADSLDTVEIMMALEEKFG  68
+
+Query  103  VSIGESGAESIATVQEAADLIEKVKAEAA  131
+            VSIGE GA+SIATVQ+AADLIEKVK  AA
+Sbjct  69   VSIGEDGAQSIATVQDAADLIEKVKTAAA  97
+
+
+
+
+>hypothetical protein Pint_13626 [Pistacia integerrima]
+Sequence ID: KAJ0030196.1 Length: 153
+Range 1: 32 to 153
+
+Score:141 bits(355), Expect:7e-40, 
+Method:Compositional matrix adjust., 
+Identities:81/127(64%), Positives:96/127(75%), Gaps:6/127(4%)
+
+Query  6    STLSAPAFSITQRSSVVPQVCQFRDIKRGRFLNKTLSISCAI-VNAAQPETMEIVKSTIA  64
+            ST  +P FS  +    +P++ QF      RF  ++     AI  +AAQPET++ V+STIA
+Sbjct  32   STTGSPLFSGLKH---IPKI-QFSKT-VDRFSTRSRCFKTAISCSAAQPETLKTVQSTIA  86
+
+Query  65   KQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIE  124
+            KQLSID  TVTP+TKF DLGADSLDTVEIMMALEEQFGVSIGE GAE++ATVQ+AADLIE
+Sbjct  87   KQLSIDLSTVTPETKFADLGADSLDTVEIMMALEEQFGVSIGEGGAENVATVQDAADLIE  146
+
+Query  125  KVKAEAA  131
+            KVKA AA
+Sbjct  147  KVKAAAA  153
+
+
+
+
+>uncharacterized protein LOC101259690 [Solanum lycopersicum]
+Sequence ID: XP_019067562.1 Length: 112
+Range 1: 1 to 108
+
+Score:139 bits(351), Expect:9e-40, 
+Method:Compositional matrix adjust., 
+Identities:78/127(61%), Positives:91/127(71%), Gaps:19/127(14%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVK  60
+            MAS  ST +AP+ ++   S+     C  R IK                  AQPET+E+V+
+Sbjct  1    MASFISTSTAPSTTLICTST--NSQCHIRQIKN-----------------AQPETLEVVQ  41
+
+Query  61   STIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAA  120
+            STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FGVSIGE GA++IATVQ+AA
+Sbjct  42   STIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFGVSIGEEGAQNIATVQDAA  101
+
+Query  121  DLIEKVK  127
+            DLI+KVK
+Sbjct  102  DLIQKVK  108
+
+
+
+
+>hypothetical protein L1987_45359 [Smallanthus sonchifolius]
+Sequence ID: KAI3786224.1 Length: 141
+Range 1: 10 to 141
+
+Score:140 bits(353), Expect:1e-39, 
+Method:Compositional matrix adjust., 
+Identities:80/135(59%), Positives:98/135(72%), Gaps:10/135(7%)
+
+Query  3    SATSTLSAPAFSITQRSSV-----VPQVCQFRDIKRGRFLNKTL--SISCAIVNAAQPET  55
+            +A+ TL  P    TQ +SV       +   F+  KR    +     +ISC++   AQPET
+Sbjct  10   AASPTLVVPKIQCTQLTSVSMISGANRFVIFKSEKRSLPFSHCFKTTISCSL---AQPET  66
+
+Query  56   MEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIAT  115
+            ++IV++TIA QLSIDE TV P TKF DLGADSLDTVEIMMALEE+FGVSIGESGAE+I+T
+Sbjct  67   LKIVQATIANQLSIDESTVAPATKFADLGADSLDTVEIMMALEEKFGVSIGESGAENIST  126
+
+Query  116  VQEAADLIEKVKAEA  130
+            VQ+AADLIEKVK+EA
+Sbjct  127  VQDAADLIEKVKSEA  141
+
+
+
+
+>hypothetical protein Patl1_13726 [Pistacia atlantica]
+Sequence ID: KAJ0089514.1 Length: 153
+Range 1: 32 to 153
+
+Score:140 bits(354), Expect:1e-39, 
+Method:Compositional matrix adjust., 
+Identities:82/131(63%), Positives:94/131(71%), Gaps:14/131(10%)
+
+Query  6    STLSAPAFSITQRSSVVPQVCQFRDI-----KRGRFLNKTLSISCAIVNAAQPETMEIVK  60
+            ST  +P FS  Q    +P++ QF         R R     +S S     AAQPET++ V+
+Sbjct  32   STTGSPLFSGLQH---IPKI-QFSKTVDSFSTRSRCFKTAISSS-----AAQPETLKTVQ  82
+
+Query  61   STIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAA  120
+            STIAKQLSID  TVTP+TKF DLGADSLDTVEIMMALEEQFGVSIGE GAE++ATVQ+AA
+Sbjct  83   STIAKQLSIDLSTVTPETKFADLGADSLDTVEIMMALEEQFGVSIGEGGAENVATVQDAA  142
+
+Query  121  DLIEKVKAEAA  131
+            DLIEKVKA AA
+Sbjct  143  DLIEKVKAAAA  153
+
+
+
+
+>hypothetical protein L6164_004172 [Bauhinia variegata]
+Sequence ID: KAI4355393.1 Length: 154
+Range 1: 1 to 154
+
+Score:140 bits(353), Expect:1e-39, 
+Method:Compositional matrix adjust., 
+Identities:81/157(52%), Positives:104/157(66%), Gaps:29/157(18%)
+
+Query  1    MASATSTLSAPAFSIT----QRSSVVPQVC-------------------QFRDIKRGRFL  37
+            MA   ST SAP  +++     R++ +PQ+                    Q ++  R  FL
+Sbjct  1    MAYILSTSSAPMATLSCNSGVRTTTIPQISTLSATGSSMFGGLRLANKIQLKNSTRTTFL  60
+
+Query  38   ---NKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIM  94
+                    ISC++   A PET++IV+STIAKQLSI+E TVTP TKF DLGADSLDTVEIM
+Sbjct  61   VSGGSRTKISCSV---AHPETLQIVQSTIAKQLSIEEATVTPHTKFADLGADSLDTVEIM  117
+
+Query  95   MALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            M+LEE+FGVSIGE GAE+I+TVQ+AA+LIEKVKA++A
+Sbjct  118  MSLEEKFGVSIGEGGAENISTVQDAANLIEKVKADSA  154
+
+
+
+
+>hypothetical protein L1987_67191 [Smallanthus sonchifolius]
+Sequence ID: KAI3727377.1 Length: 144
+Range 1: 46 to 144
+
+Score:140 bits(352), Expect:1e-39, 
+Method:Compositional matrix adjust., 
+Identities:74/103(72%), Positives:87/103(84%), Gaps:4/103(3%)
+
+Query  28   FRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADS  87
+            F+  KR     KT +ISC++   AQPET++IV++TIA QLSIDE TV P TKF DLGADS
+Sbjct  46   FKSQKRSSHCFKT-TISCSL---AQPETLKIVQATIANQLSIDETTVAPATKFADLGADS  101
+
+Query  88   LDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEA  130
+            LDTVEIMMALEE+FGVSIGESGAE+I+TVQ+AADLIEKVK+EA
+Sbjct  102  LDTVEIMMALEEKFGVSIGESGAENISTVQDAADLIEKVKSEA  144
+
+
+
+
+>acyl carrier protein-like [Helianthus annuus]
+Sequence ID: XP_035833958.1 Length: 135
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAF5793471.1 Length: 135
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0895747.1 Length: 135
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0895755.1 Length: 135 
+Range 1: 36 to 135
+
+Score:140 bits(352), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:75/103(73%), Positives:84/103(81%), Gaps:3/103(2%)
+
+Query  28   FRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADS  87
+            F+  KR         ISC++   AQPET++IV++TIA QLSIDE TV P TKFVDLGADS
+Sbjct  36   FKSEKRSVVPFSRCFISCSL---AQPETLKIVQATIANQLSIDECTVAPSTKFVDLGADS  92
+
+Query  88   LDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEA  130
+            LDTVEIMMALEE FGVSIGESGAE+IATVQ+AADLIEKVKAEA
+Sbjct  93   LDTVEIMMALEETFGVSIGESGAENIATVQDAADLIEKVKAEA  135
+
+
+
+
+>uncharacterized protein LOC127795894 [Diospyros lotus]
+Sequence ID: XP_052183827.1 Length: 154
+Range 1: 39 to 148
+
+Score:140 bits(353), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:76/116(66%), Positives:88/116(75%), Gaps:6/116(5%)
+
+Query  12   AFSITQRSSVVPQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDE  71
+               +  R  V   V Q R  +R  F +   ++SC+I   AQPET++IV+ TIAKQLSIDE
+Sbjct  39   GLRLVPRIEVTKAVDQMRSRRRRCFKS---TVSCSI---AQPETLQIVQGTIAKQLSIDE  92
+
+Query  72   GTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVK  127
+             TV PQTKF DLGADSLDTVEIMMALEE+FGVSIGE GAE+I+TVQEAADLIEKVK
+Sbjct  93   STVAPQTKFADLGADSLDTVEIMMALEEKFGVSIGEEGAENISTVQEAADLIEKVK  148
+
+
+
+
+>hypothetical protein KY289_013776 [Solanum tuberosum]
+Sequence ID: KAH0696294.1 Length: 150
+>hypothetical protein KY290_013654 [Solanum tuberosum]
+Sequence ID: KAH0769673.1 Length: 150 
+Range 1: 65 to 146
+
+Score:140 bits(352), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:70/85(82%), Positives:79/85(92%), Gaps:3/85(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+I   AQPET+E+V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  65   ISCSI---AQPETLEVVQSTIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFG  121
+
+Query  103  VSIGESGAESIATVQEAADLIEKVK  127
+            VSIGE GA++IATVQ+AADLI+KVK
+Sbjct  122  VSIGEEGAQNIATVQDAADLIQKVK  146
+
+
+
+
+>Acyl carrier protein [Trema orientale]
+Sequence ID: PON62563.1 Length: 147
+Range 1: 58 to 147
+
+Score:140 bits(352), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:70/90(78%), Positives:81/90(90%), Gaps:0/90(0%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I  +AQPET++ V+STIAKQLSIDE +VTP TKF DLGADSLDTVEIMMALEE+F
+Sbjct  58   TISCSINASAQPETLKTVQSTIAKQLSIDENSVTPSTKFADLGADSLDTVEIMMALEEKF  117
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+             VSIGE GAE+I+TVQ+AADLIEKVKA AA
+Sbjct  118  DVSIGEEGAENISTVQDAADLIEKVKAAAA  147
+
+
+
+
+>PREDICTED: acyl carrier protein-like [Solanum tuberosum]
+Sequence ID: XP_015165558.1 Length: 126
+Range 1: 41 to 122
+
+Score:139 bits(350), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:70/85(82%), Positives:79/85(92%), Gaps:3/85(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+I   AQPET+E+V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  41   ISCSI---AQPETLEVVQSTIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFG  97
+
+Query  103  VSIGESGAESIATVQEAADLIEKVK  127
+            VSIGE GA++IATVQ+AADLI+KVK
+Sbjct  98   VSIGEEGAQNIATVQDAADLIQKVK  122
+
+
+
+
+>hypothetical protein HHK36_032802 [Tetracentron sinense]
+Sequence ID: KAF8365181.1 Length: 152
+>hypothetical protein HHK36_005948 [Tetracentron sinense]
+Sequence ID: KAF8406827.1 Length: 152 
+Range 1: 44 to 152
+
+Score:140 bits(352), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:79/113(70%), Positives:90/113(79%), Gaps:6/113(5%)
+
+Query  21   VVPQVCQFRDIKRGRFLN--KTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQT  78
+            +VP++      KR   L   KT +ISC   + AQPET++ V+ TIAKQLSIDE TVTPQT
+Sbjct  44   LVPKIQLTVAAKRSPLLRCFKT-TISC---SNAQPETLQTVQGTIAKQLSIDESTVTPQT  99
+
+Query  79   KFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            KF DLGADSLDTVEIMMALEE+FGVSIGE GAE+IATVQ+AADLIEKVKA AA
+Sbjct  100  KFADLGADSLDTVEIMMALEEKFGVSIGEGGAENIATVQDAADLIEKVKAAAA  152
+
+
+
+
+>hypothetical protein K7X08_033879 [Anisodus acutangulus]
+Sequence ID: KAJ8550172.1 Length: 150
+Range 1: 43 to 147
+
+Score:140 bits(352), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:76/118(64%), Positives:93/118(78%), Gaps:13/118(11%)
+
+Query  11   PAFSITQRSSVVPQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSID  70
+            P+  I++ +++ P++          F N+   ISC+I   AQPET+ +V+STIAKQLSID
+Sbjct  43   PSIQISRAATISPKL-------SNGFKNQ---ISCSI---AQPETLVVVQSTIAKQLSID  89
+
+Query  71   EGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKA  128
+            E TVTPQTKF DLGADSLDTVEIMMALEE+FGVSIGE GA++IATVQ+AADLIEKVKA
+Sbjct  90   ETTVTPQTKFADLGADSLDTVEIMMALEEKFGVSIGEEGAQNIATVQDAADLIEKVKA  147
+
+
+
+
+>hypothetical protein EJD97_012530 [Solanum chilense]
+Sequence ID: TMW92817.1 Length: 140
+Range 1: 1 to 136
+
+Score:139 bits(351), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:87/141(62%), Positives:100/141(70%), Gaps:19/141(13%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDIKR------GRFLNKT--LS------ISCA  46
+            MAS  S  +AP+ ++   S+     C  R IK        R   KT  LS      ISC+
+Sbjct  1    MASFISISTAPSTTLICTST--NSQCHIRQIKNMPSIQISRPETKTPKLSHGYKNQISCS  58
+
+Query  47   IVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIG  106
+            I   AQ ET+E+V+STIAKQLSIDE TVTPQTKFVDLGADSLDTVEIMMALEE+FGVSIG
+Sbjct  59   I---AQAETLEVVQSTIAKQLSIDESTVTPQTKFVDLGADSLDTVEIMMALEEKFGVSIG  115
+
+Query  107  ESGAESIATVQEAADLIEKVK  127
+            E GA+SIATVQ+AADLI+KVK
+Sbjct  116  EEGAQSIATVQDAADLIQKVK  136
+
+
+
+
+>acyl carrier protein 1, chloroplastic-like [Pistacia vera]
+Sequence ID: XP_031287013.1 Length: 153
+>acyl carrier protein 1, chloroplastic-like [Pistacia vera]
+Sequence ID: XP_031287045.1 Length: 153 
+Range 1: 56 to 153
+
+Score:140 bits(352), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:73/98(74%), Positives:83/98(84%), Gaps:1/98(1%)
+
+Query  35   RFLNKTLSISCAI-VNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEI  93
+            RF  ++     AI  +AAQPET++ V+STIAKQLSID  TVTP+TKF DLGADSLDTVEI
+Sbjct  56   RFSTRSRCFKTAISCSAAQPETLKTVQSTIAKQLSIDLSTVTPETKFADLGADSLDTVEI  115
+
+Query  94   MMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            MMALEEQFGVSIGE GAE++ATVQ+AADLIEKVKA AA
+Sbjct  116  MMALEEQFGVSIGEGGAENVATVQDAADLIEKVKAAAA  153
+
+
+
+
+>hypothetical protein H5410_005988 [Solanum commersonii]
+Sequence ID: KAG5620770.1 Length: 150
+Range 1: 65 to 146
+
+Score:139 bits(351), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:70/85(82%), Positives:79/85(92%), Gaps:3/85(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+I   AQPET+E+V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  65   ISCSI---AQPETLEVVQSTIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFG  121
+
+Query  103  VSIGESGAESIATVQEAADLIEKVK  127
+            VSIGE GA++IATVQ+AADLI+KVK
+Sbjct  122  VSIGEEGAQNIATVQDAADLIQKVK  146
+
+
+
+
+>hypothetical protein HHK36_014445 [Tetracentron sinense]
+Sequence ID: KAF8401141.1 Length: 155
+Range 1: 69 to 155
+
+Score:139 bits(351), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:72/90(80%), Positives:81/90(90%), Gaps:3/90(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   A PET++ V+STIAKQLSI+E TVTPQTKFVDLGADSLDTVEIMMALEE+F
+Sbjct  69   TISCSI---AGPETLQTVQSTIAKQLSIEESTVTPQTKFVDLGADSLDTVEIMMALEEKF  125
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVSIGE GAE+IATVQ+AADLIEKVK  AA
+Sbjct  126  GVSIGEGGAENIATVQDAADLIEKVKVAAA  155
+
+
+
+
+>hypothetical protein JRO89_XS03G0301600 [Xanthoceras sorbifolium]
+Sequence ID: KAH7574481.1 Length: 154
+Range 1: 6 to 154
+
+Score:139 bits(351), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:84/152(55%), Positives:103/152(67%), Gaps:27/152(17%)
+
+Query  4    ATSTLSAPAFSITQ--RSSVVPQ----------VCQFRDIKRGRF---LNKTLS------  42
+            ATS  S   F +T   R+S+ PQ           C  + I + +F    N++ +      
+Sbjct  6    ATSACSLTTFPVTASIRASMPPQKSFSTTGGPTFCGLKHIPKVQFSKAANRSFTTNSRCF  65
+
+Query  43   ---ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEE  99
+               ISC+    AQPET++ V+STIAKQLSI+  +VTP+TKF DLGADSLDTVEIMMALEE
+Sbjct  66   KTAISCST---AQPETLKTVQSTIAKQLSIELNSVTPETKFADLGADSLDTVEIMMALEE  122
+
+Query  100  QFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            QFGVS+GESGAE+IATVQ+AADLIEKVKA AA
+Sbjct  123  QFGVSVGESGAENIATVQDAADLIEKVKAAAA  154
+
+
+
+
+>acyl carrier protein, chloroplastic-like [Mangifera indica]
+Sequence ID: XP_044472198.1 Length: 154
+Range 1: 33 to 154
+
+Score:139 bits(351), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:80/127(63%), Positives:95/127(74%), Gaps:6/127(4%)
+
+Query  6    STLSAPAFSITQRSSVVPQVCQFRDIKRGRFLNKTLSISCAI-VNAAQPETMEIVKSTIA  64
+            ST  +P FS  +  + + Q  Q  D    RF  ++     AI  +AAQPET++ V+STIA
+Sbjct  33   STTGSPLFSGLKHITKI-QFSQTVD----RFSTRSRCFKTAISCSAAQPETLKTVQSTIA  87
+
+Query  65   KQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIE  124
+            KQLSID  TVTP+TKF DLGADSLDTVEIMMALEEQFGVSIGE GAE++ATVQ+AADLIE
+Sbjct  88   KQLSIDLSTVTPETKFADLGADSLDTVEIMMALEEQFGVSIGEGGAENVATVQDAADLIE  147
+
+Query  125  KVKAEAA  131
+            KVKA A+
+Sbjct  148  KVKAAAS  154
+
+
+
+
+>acyl carrier protein 1, chloroplastic [Rosa chinensis]
+Sequence ID: XP_024183838.1 Length: 152
+>putative Acyl carrier protein (ACP) [Rosa chinensis]
+Sequence ID: PRQ51647.1 Length: 152 
+Range 1: 68 to 151
+
+Score:139 bits(350), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:70/87(80%), Positives:80/87(91%), Gaps:3/87(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET++ V+STIAKQLS+DE TVTPQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  68   TISCSI---AQPETLQTVQSTIAKQLSVDESTVTPQTKFADLGADSLDTVEIMMALEEKF  124
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKA  128
+            GVSIGE GAE+IATVQ+AADLIEKVK+
+Sbjct  125  GVSIGEGGAENIATVQDAADLIEKVKS  151
+
+
+
+
+>hypothetical protein CXB51_014580 [Gossypium anomalum]
+Sequence ID: KAG8491385.1 Length: 154
+Range 1: 39 to 154
+
+Score:139 bits(350), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:78/122(64%), Positives:95/122(77%), Gaps:11/122(9%)
+
+Query  15   ITQRSSVVPQVCQFRDIKRGRFLN-----KTLSISCAIVNAAQPETMEIVKSTIAKQLSI  69
+            +  R  ++P++ QF   +R +F       KTL +SC++   AQPET++ V++TIAKQLSI
+Sbjct  39   VCNRLKLIPKI-QFSK-ERNKFSTRSSCFKTL-VSCSL---AQPETLKTVQNTIAKQLSI  92
+
+Query  70   DEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAE  129
+            D  TVTP TKF DLGADSLDTVEIMMALEEQFGVS+GE GAE+IATVQ+AADLIEKVKA 
+Sbjct  93   DASTVTPDTKFADLGADSLDTVEIMMALEEQFGVSVGEGGAENIATVQDAADLIEKVKAA  152
+
+Query  130  AA  131
+            AA
+Sbjct  153  AA  154
+
+
+
+
+>acyl carrier protein 1, chloroplastic [Jatropha curcas]
+Sequence ID: XP_012077157.2 Length: 153
+Range 1: 61 to 153
+
+Score:139 bits(350), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:72/97(74%), Positives:82/97(84%), Gaps:4/97(4%)
+
+Query  35   RFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIM  94
+            R+     +ISC+    AQPET+ IV+STIAKQLSIDE TVTP+TKF DLGADSLDTVEIM
+Sbjct  61   RYRCFRTTISCS----AQPETLNIVQSTIAKQLSIDESTVTPETKFADLGADSLDTVEIM  116
+
+Query  95   MALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            MALEEQFGVSIGE GAE+I TVQ+AADLIEKV+A +A
+Sbjct  117  MALEEQFGVSIGEGGAENIVTVQDAADLIEKVQAASA  153
+
+
+
+
+>acyl carrier protein 1, chloroplastic-like [Solanum dulcamara]
+Sequence ID: XP_055803449.1 Length: 89
+Range 1: 9 to 86
+
+Score:137 bits(345), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:67/78(86%), Positives:75/78(96%), Gaps:0/78(0%)
+
+Query  51   AQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGA  110
+            AQPET+E+V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FGVSIGE GA
+Sbjct  9    AQPETLEVVQSTIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFGVSIGEEGA  68
+
+Query  111  ESIATVQEAADLIEKVKA  128
+            ++IATVQ+AADLI+KVKA
+Sbjct  69   QNIATVQDAADLIQKVKA  86
+
+
+
+
+>hypothetical protein JCGZ_07571 [Jatropha curcas]
+Sequence ID: KDP34000.1 Length: 139
+Range 1: 47 to 139
+
+Score:139 bits(349), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:72/97(74%), Positives:82/97(84%), Gaps:4/97(4%)
+
+Query  35   RFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIM  94
+            R+     +ISC+    AQPET+ IV+STIAKQLSIDE TVTP+TKF DLGADSLDTVEIM
+Sbjct  47   RYRCFRTTISCS----AQPETLNIVQSTIAKQLSIDESTVTPETKFADLGADSLDTVEIM  102
+
+Query  95   MALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            MALEEQFGVSIGE GAE+I TVQ+AADLIEKV+A +A
+Sbjct  103  MALEEQFGVSIGEGGAENIVTVQDAADLIEKVQAASA  139
+
+
+
+
+>Acyl carrier protein (ACP) [Corchorus capsularis]
+Sequence ID: OMO67063.1 Length: 152
+Range 1: 67 to 152
+
+Score:139 bits(349), Expect:6e-39, 
+Method:Compositional matrix adjust., 
+Identities:72/89(81%), Positives:80/89(89%), Gaps:3/89(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC   +AAQPET++ V+STIAKQLSID  TVTP+TKF DLGADSLDTVEIMMALEEQF
+Sbjct  67   AISC---SAAQPETLQTVQSTIAKQLSIDVSTVTPETKFADLGADSLDTVEIMMALEEQF  123
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEA  130
+            GVSIGE GAE+IATVQ+AADLIEKVKA A
+Sbjct  124  GVSIGEGGAENIATVQDAADLIEKVKAAA  152
+
+
+
+
+>unnamed protein product [Lactuca saligna]
+Sequence ID: CAI9280899.1 Length: 144
+Range 1: 1 to 144
+
+Score:138 bits(348), Expect:7e-39, 
+Method:Compositional matrix adjust., 
+Identities:82/147(56%), Positives:101/147(68%), Gaps:20/147(13%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDI---------------KRGRFLNKTL--SI  43
+            MAS  ST + P+ ++   ++   Q  QF  +               KR   L+  L  +I
+Sbjct  1    MASLLSTSATPSSALLLPTTPRIQCTQFASVSMISGGQRLVILKAEKRSSPLSHCLKTTI  60
+
+Query  44   SCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGV  103
+            SC+I   AQPET++IV++TIA QLSIDE TV P TKF DLGADSLDTVEIMMALEE+FGV
+Sbjct  61   SCSI---AQPETLKIVQATIANQLSIDESTVAPATKFADLGADSLDTVEIMMALEEKFGV  117
+
+Query  104  SIGESGAESIATVQEAADLIEKVKAEA  130
+            SIGESGAE+I+TVQ+AADLIEKVK +A
+Sbjct  118  SIGESGAENISTVQDAADLIEKVKTDA  144
+
+
+
+
+>Acyl carrier protein 1 [Dorcoceras hygrometricum]
+Sequence ID: KZV56372.1 Length: 269
+Range 1: 120 to 269
+
+Score:142 bits(358), Expect:7e-39, 
+Method:Compositional matrix adjust., 
+Identities:84/153(55%), Positives:97/153(63%), Gaps:25/153(16%)
+
+Query  1    MASATSTLSAP-------------------AFSITQRS---SVVPQVCQFRDIKRGRFLN  38
+            MAS  STL AP                    F  T R+     VP +     + +    +
+Sbjct  120  MASLASTLPAPPAATGNLRRLYPVPKATIACFHGTPRAIGIRRVPNIINQFPLTKSSGYH  179
+
+Query  39   KTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALE  98
+            K   ISCA+   AQPET++IV+STIAKQL ++EG VTPQ KF DLGADSLDTVEIMMALE
+Sbjct  180  KRSRISCAV---AQPETLQIVRSTIAKQLQVEEGNVTPQMKFADLGADSLDTVEIMMALE  236
+
+Query  99   EQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            EQF VSIGE GAE+IATVQ+AADLIEKVK  AA
+Sbjct  237  EQFSVSIGEGGAENIATVQDAADLIEKVKTAAA  269
+
+
+
+
+>acyl carrier protein 1, chloroplastic-like [Nicotiana tomentosiformis]
+Sequence ID: XP_009629425.1 Length: 153
+Range 1: 68 to 150
+
+Score:138 bits(348), Expect:8e-39, 
+Method:Compositional matrix adjust., 
+Identities:71/86(83%), Positives:79/86(91%), Gaps:3/86(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+I   AQPET++IV+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+F 
+Sbjct  68   ISCSI---AQPETLDIVQSTIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFE  124
+
+Query  103  VSIGESGAESIATVQEAADLIEKVKA  128
+            VSIGE GA++IATVQ+AADLIEKVKA
+Sbjct  125  VSIGEEGAQNIATVQDAADLIEKVKA  150
+
+
+
+
+>acyl carrier protein 1, chloroplastic-like [Gossypium australe]
+Sequence ID: KAA3477345.1 Length: 154
+Range 1: 10 to 154
+
+Score:138 bits(348), Expect:8e-39, 
+Method:Compositional matrix adjust., 
+Identities:85/149(57%), Positives:101/149(67%), Gaps:27/149(18%)
+
+Query  6    STLSAPAF------SITQRSSV----VPQVC---------QFRDIKRGRFLNKT----LS  42
+            S+L APA       SI+Q  S      P VC         QF   +R +F  ++      
+Sbjct  10   SSLPAPATIPFAKGSISQHKSFTTIGCPVVCNGMKLIPKIQFSK-ERNKFSTRSSCFKTP  68
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            +SC++   AQPET++ V++TIAKQLSID  TVTP TKF DLGADSLDTVEIMMALEEQFG
+Sbjct  69   VSCSL---AQPETLKTVQNTIAKQLSIDASTVTPDTKFADLGADSLDTVEIMMALEEQFG  125
+
+Query  103  VSIGESGAESIATVQEAADLIEKVKAEAA  131
+            VS+GE GAE+IATVQ+AADLIEKVKA AA
+Sbjct  126  VSVGEGGAENIATVQDAADLIEKVKAAAA  154
+
+
+
+
+>acyl carrier protein-like [Erigeron canadensis]
+Sequence ID: XP_043616428.1 Length: 144
+Range 1: 47 to 144
+
+Score:138 bits(347), Expect:1e-38, 
+Method:Compositional matrix adjust., 
+Identities:73/101(72%), Positives:84/101(83%), Gaps:5/101(4%)
+
+Query  32   KRGRFLNKTL--SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLD  89
+            KR   L+     +I+C++   AQPET++IV++TIA QLSIDE TV P TKF DLGADSLD
+Sbjct  47   KRASPLSHCFKTTITCSV---AQPETLKIVQATIASQLSIDESTVAPATKFADLGADSLD  103
+
+Query  90   TVEIMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEA  130
+            TVEIMMALEE FGVSIGESGAE+IATVQ+AADLIEKVKAEA
+Sbjct  104  TVEIMMALEETFGVSIGESGAENIATVQDAADLIEKVKAEA  144
+
+
+
+
+>hypothetical protein L6452_07871 [Arctium lappa]
+Sequence ID: KAI3759802.1 Length: 134
+Range 1: 1 to 134
+
+Score:137 bits(346), Expect:1e-38, 
+Method:Compositional matrix adjust., 
+Identities:82/137(60%), Positives:98/137(71%), Gaps:10/137(7%)
+
+Query  1    MASATSTLSAPAFSITQRSSVV-----PQVCQFRDIKRGRFLNKTL--SISCAIVNAAQP  53
+            MAS  S    P+   TQ ++V       +    +  KR   L+  L  +ISC+I   AQP
+Sbjct  1    MASFLSASPLPSLHCTQLTTVSMISGGKRFGILKAKKRLPSLSHCLKTTISCSI---AQP  57
+
+Query  54   ETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESI  113
+            ET++IV++TIA QLSIDE TV P TKF DLGADSLDTVEIMMALEE+FGVSIGESGAE+I
+Sbjct  58   ETLKIVQATIANQLSIDETTVAPATKFTDLGADSLDTVEIMMALEEKFGVSIGESGAENI  117
+
+Query  114  ATVQEAADLIEKVKAEA  130
+            +TVQ+AADLIEKVK EA
+Sbjct  118  STVQDAADLIEKVKTEA  134
+
+
+
+
+>acyl carrier protein-like [Juglans regia]
+Sequence ID: XP_018839180.1 Length: 154
+>hypothetical protein F2P56_027872 [Juglans regia]
+Sequence ID: KAF5452919.1 Length: 154 
+Range 1: 65 to 154
+
+Score:138 bits(347), Expect:1e-38, 
+Method:Compositional matrix adjust., 
+Identities:73/93(78%), Positives:80/93(86%), Gaps:3/93(3%)
+
+Query  39   KTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALE  98
+            KT  ISC+I   AQPET++ V+  IAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALE
+Sbjct  65   KTTIISCSI---AQPETVQTVQGIIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALE  121
+
+Query  99   EQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            E+F VSIGE GAE+I+TVQEAADLIEKVKA AA
+Sbjct  122  EKFNVSIGEGGAENISTVQEAADLIEKVKAAAA  154
+
+
+
+
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0528305.1 Length: 82
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0544734.1 Length: 82
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0755691.1 Length: 82 
+Range 1: 3 to 82
+
+Score:135 bits(340), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:69/80(86%), Positives:75/80(93%), Gaps:0/80(0%)
+
+Query  51   AQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGA  110
+            AQPET++IV++TIA QLSIDE TV P TKFVDLGADSLDTVEIMMALEE FGVSIGESGA
+Sbjct  3    AQPETLKIVQATIANQLSIDECTVAPSTKFVDLGADSLDTVEIMMALEETFGVSIGESGA  62
+
+Query  111  ESIATVQEAADLIEKVKAEA  130
+            E+IATVQ+AADLIEKVKAEA
+Sbjct  63   ENIATVQDAADLIEKVKAEA  82
+
+
+
+
+>hypothetical protein L1887_10789 [Cichorium endivia]
+Sequence ID: KAI3521326.1 Length: 144
+Range 1: 1 to 144
+
+Score:137 bits(345), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:82/147(56%), Positives:100/147(68%), Gaps:20/147(13%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDI---------------KRGRFLNKTL--SI  43
+            MAS  ST +AP+ S+   ++   Q  Q   I               KR   L+     +I
+Sbjct  1    MASLLSTSAAPSSSLLLHTTPRIQCKQLASISMISGGQKFATLKAQKRTSSLSHCFKTTI  60
+
+Query  44   SCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGV  103
+            SC++   AQPET++IV++TIA QLSIDE TV P TKF DLGADSLDTVEIMMALEE+FGV
+Sbjct  61   SCSL---AQPETLKIVQATIASQLSIDESTVAPATKFADLGADSLDTVEIMMALEEKFGV  117
+
+Query  104  SIGESGAESIATVQEAADLIEKVKAEA  130
+            SIGESGAE+I+TVQ+AADLIEKVK +A
+Sbjct  118  SIGESGAENISTVQDAADLIEKVKTDA  144
+
+
+
+
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0537228.1 Length: 90
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0709734.1 Length: 90
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0713605.1 Length: 90
+>putative Acyl carrier protein (ACP) [Helianthus annuus]
+Sequence ID: KAJ0891000.1 Length: 90 
+Range 1: 11 to 90
+
+Score:135 bits(340), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:69/80(86%), Positives:75/80(93%), Gaps:0/80(0%)
+
+Query  51   AQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGA  110
+            AQPET++IV++TIA QLSIDE TV P TKFVDLGADSLDTVEIMMALEE FGVSIGESGA
+Sbjct  11   AQPETLKIVQATIANQLSIDECTVAPSTKFVDLGADSLDTVEIMMALEETFGVSIGESGA  70
+
+Query  111  ESIATVQEAADLIEKVKAEA  130
+            E+IATVQ+AADLIEKVKAEA
+Sbjct  71   ENIATVQDAADLIEKVKAEA  90
+
+
+
+
+>uncharacterized protein LOC125847123 [Solanum stenotomum]
+Sequence ID: XP_049382774.1 Length: 126
+Range 1: 41 to 121
+
+Score:136 bits(343), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:68/84(81%), Positives:78/84(92%), Gaps:3/84(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+I   AQPET+E+V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+FG
+Sbjct  41   ISCSI---AQPETLEVVQSTIAKQLSIDESTVTPQTKFADLGADSLDTVEIMMALEEKFG  97
+
+Query  103  VSIGESGAESIATVQEAADLIEKV  126
+            VSIGE GA++IATVQ+AADLI+K+
+Sbjct  98   VSIGEEGAQNIATVQDAADLIQKL  121
+
+
+
+
+>hypothetical protein J1N35_034970 [Gossypium stocksii]
+Sequence ID: KAH1056905.1 Length: 154
+Range 1: 32 to 154
+
+Score:137 bits(346), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:76/129(59%), Positives:96/129(74%), Gaps:9/129(6%)
+
+Query  6    STLSAPAFSITQRSSVVPQVCQF---RDIKRGRFLNKTLSISCAIVNAAQPETMEIVKST  62
+            +T+  P   +  R  ++P++ QF   R+    R+      +SC++   AQPET++ V++T
+Sbjct  32   TTIGCPV--VCNRLKLIPKI-QFSKERNKFSTRYSCLKTPVSCSL---AQPETLKTVQNT  85
+
+Query  63   IAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAADL  122
+            IAKQLSID  +VTP TKF DLGADSLDTVEIMMALEEQFGVS+GE GAE+IATVQ+AADL
+Sbjct  86   IAKQLSIDVSSVTPDTKFADLGADSLDTVEIMMALEEQFGVSVGEGGAENIATVQDAADL  145
+
+Query  123  IEKVKAEAA  131
+            IEKVKA AA
+Sbjct  146  IEKVKAAAA  154
+
+
+
+
+>PREDICTED: acyl carrier protein 1, chloroplastic-like [Daucus carota subsp. sativus]
+Sequence ID: XP_017218667.1 Length: 154
+>hypothetical protein DCAR_026428 [Daucus carota subsp. sativus]
+Sequence ID: KZM89353.1 Length: 154 
+Range 1: 63 to 154
+
+Score:137 bits(346), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:73/97(75%), Positives:83/97(85%), Gaps:5/97(5%)
+
+Query  35   RFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIM  94
+            RF  KT +ISC   +AA+PET++IV+STIAKQLSIDE  V P  KF DLGADSLDTVEIM
+Sbjct  63   RF--KTATISC---SAAKPETLQIVQSTIAKQLSIDETAVAPGIKFADLGADSLDTVEIM  117
+
+Query  95   MALEEQFGVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            MALEE+FGVSIGE GAE+IATVQ+AADLIEKVKA +A
+Sbjct  118  MALEEKFGVSIGEGGAENIATVQDAADLIEKVKAASA  154
+
+
+
+
+>uncharacterized protein LOC107009927 [Solanum pennellii]
+Sequence ID: XP_027769981.1 Length: 112
+Range 1: 1 to 108
+
+Score:135 bits(341), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:77/127(61%), Positives:90/127(70%), Gaps:19/127(14%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDIKRGRFLNKTLSISCAIVNAAQPETMEIVK  60
+            MAS  ST  AP+ ++   S+     C  R IK                  AQPET+EIV+
+Sbjct  1    MASFISTSPAPSTTLICTST--NSQCHIRQIKN-----------------AQPETLEIVQ  41
+
+Query  61   STIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGESGAESIATVQEAA  120
+            STIAKQLSIDE TVTPQTKF DLGADSLDTVEI++ALEE+FGVSIGE GA++IATVQ+AA
+Sbjct  42   STIAKQLSIDESTVTPQTKFADLGADSLDTVEILIALEEKFGVSIGEEGAQNIATVQDAA  101
+
+Query  121  DLIEKVK  127
+            DLI+KVK
+Sbjct  102  DLIQKVK  108
+
+
+
+
+>Acyl carrier protein 1 [Spatholobus suberectus]
+Sequence ID: TKY64227.1 Length: 154
+Range 1: 69 to 150
+
+Score:137 bits(345), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:69/85(81%), Positives:78/85(91%), Gaps:3/85(3%)
+
+Query  43   ISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFG  102
+            ISC+   AAQPET++IV+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+F 
+Sbjct  69   ISCS---AAQPETLQIVQSTIAKQLSIDEATVTPQTKFSDLGADSLDTVEIMMALEEKFD  125
+
+Query  103  VSIGESGAESIATVQEAADLIEKVK  127
+            +SIGE GAE+I+TVQ+AADLIEKVK
+Sbjct  126  ISIGEGGAENISTVQDAADLIEKVK  150
+
+
+
+
+>hypothetical protein L2E82_16409 [Cichorium intybus]
+Sequence ID: KAI3766354.1 Length: 144
+Range 1: 1 to 144
+
+Score:137 bits(344), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:81/147(55%), Positives:100/147(68%), Gaps:20/147(13%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDI---------------KRGRFLNKTL--SI  43
+            MAS  ST +AP+ S+   ++   Q  Q   +               KR   L+     +I
+Sbjct  1    MASLLSTSAAPSSSLLLHTTPRIQCKQLASVSMISGGQKFATLKAQKRTSSLSHCFKTTI  60
+
+Query  44   SCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGV  103
+            SC++   AQPET++IV++TIA QLSIDE TV P TKF DLGADSLDTVEIMMALEE+FGV
+Sbjct  61   SCSL---AQPETLKIVQATIASQLSIDESTVAPATKFADLGADSLDTVEIMMALEEKFGV  117
+
+Query  104  SIGESGAESIATVQEAADLIEKVKAEA  130
+            SIGESGAE+I+TVQ+AADLIEKVK +A
+Sbjct  118  SIGESGAENISTVQDAADLIEKVKTDA  144
+
+
+
+
+>uncharacterized protein LOC7491973 [Populus trichocarpa]
+Sequence ID: XP_052309720.1 Length: 128
+Range 1: 47 to 128
+
+Score:136 bits(342), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:68/82(83%), Positives:76/82(92%), Gaps:0/82(0%)
+
+Query  49   NAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGVSIGES  108
+            +AAQPET+E V+STIAKQLS++  TVTP+TKF DLGADSLDTVEIMMALEEQFGVSIGE 
+Sbjct  47   DAAQPETLETVQSTIAKQLSVEVSTVTPETKFADLGADSLDTVEIMMALEEQFGVSIGEG  106
+
+Query  109  GAESIATVQEAADLIEKVKAEA  130
+            GAE+IATVQ+AADLIEKVKA A
+Sbjct  107  GAENIATVQDAADLIEKVKAAA  128
+
+
+
+
+>uncharacterized protein LOC111883556 [Lactuca sativa]
+Sequence ID: XP_023735645.1 Length: 144
+Range 1: 1 to 144
+
+Score:136 bits(343), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:81/147(55%), Positives:101/147(68%), Gaps:20/147(13%)
+
+Query  1    MASATSTLSAPAFSITQRSSVVPQVCQFRDI---------------KRGRFLNKTL--SI  43
+            MAS  ST +AP+ ++   ++   Q  QF  +               KR   ++     +I
+Sbjct  1    MASLLSTSAAPSSTLLLPTTPRIQCTQFASVSMISGGQRFVILKAEKRSSPVSHCFKTTI  60
+
+Query  44   SCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQFGV  103
+            SC+I   AQPET++IV++TIA QLSIDE TV P TKF DLGADSLDTVEIMMALEE+FGV
+Sbjct  61   SCSI---AQPETLKIVQATIANQLSIDESTVAPATKFADLGADSLDTVEIMMALEEKFGV  117
+
+Query  104  SIGESGAESIATVQEAADLIEKVKAEA  130
+            SIGESGAE+I+TVQ+AADLIEKVK +A
+Sbjct  118  SIGESGAENISTVQDAADLIEKVKTDA  144
+
+
+
+
+>hypothetical protein H0E87_012053 [Populus deltoides]
+Sequence ID: KAH8504669.1 Length: 151
+Range 1: 60 to 151
+
+Score:137 bits(344), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:72/98(73%), Positives:80/98(81%), Gaps:6/98(6%)
+
+Query  33   RGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVE  92
+            R R    T+S S      AQPET+E V+STIAKQLS++  TVTP+TKF DLGADSLDTVE
+Sbjct  60   RSRCFKATISCS------AQPETLETVQSTIAKQLSVEVSTVTPETKFADLGADSLDTVE  113
+
+Query  93   IMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEA  130
+            IMMALEEQFGVSIGE GAE+IATVQ+AADLIEKVKA A
+Sbjct  114  IMMALEEQFGVSIGEGGAENIATVQDAADLIEKVKAAA  151
+
+
+
+
+>PREDICTED: uncharacterized protein LOC109177863 [Ipomoea nil]
+Sequence ID: XP_019182883.1 Length: 151
+Range 1: 64 to 151
+
+Score:137 bits(344), Expect:4e-38, 
+Method:Compositional matrix adjust., 
+Identities:70/90(78%), Positives:81/90(90%), Gaps:2/90(2%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+IV  A+ ET+E V+STIAKQLSIDE TVTPQTKF DLGADSLDTVEIMMALEE+F
+Sbjct  64   AISCSIV--AEAETLETVRSTIAKQLSIDETTVTPQTKFADLGADSLDTVEIMMALEERF  121
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKAEAA  131
+            GVSIGE GAE++ATVQ+AADLI+ V A+AA
+Sbjct  122  GVSIGEGGAENVATVQDAADLIQNVIADAA  151
+
+
+
+
+>hypothetical protein BDE02_06G189200 [Populus trichocarpa]
+Sequence ID: KAI5586085.1 Length: 151
+>hypothetical protein POPTR_006G217800v4 [Populus trichocarpa]
+Sequence ID: KAI9393342.1 Length: 151 
+Range 1: 60 to 151
+
+Score:137 bits(344), Expect:4e-38, 
+Method:Compositional matrix adjust., 
+Identities:72/98(73%), Positives:80/98(81%), Gaps:6/98(6%)
+
+Query  33   RGRFLNKTLSISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVE  92
+            R R    T+S S      AQPET+E V+STIAKQLS++  TVTP+TKF DLGADSLDTVE
+Sbjct  60   RSRCFKATISCS------AQPETLETVQSTIAKQLSVEVSTVTPETKFADLGADSLDTVE  113
+
+Query  93   IMMALEEQFGVSIGESGAESIATVQEAADLIEKVKAEA  130
+            IMMALEEQFGVSIGE GAE+IATVQ+AADLIEKVKA A
+Sbjct  114  IMMALEEQFGVSIGEGGAENIATVQDAADLIEKVKAAA  151
+
+
+
+
+>acyl carrier protein 1, chloroplastic-like [Potentilla anserina]
+Sequence ID: XP_050383889.1 Length: 151
+Range 1: 67 to 150
+
+Score:137 bits(344), Expect:4e-38, 
+Method:Compositional matrix adjust., 
+Identities:69/87(79%), Positives:79/87(90%), Gaps:3/87(3%)
+
+Query  42   SISCAIVNAAQPETMEIVKSTIAKQLSIDEGTVTPQTKFVDLGADSLDTVEIMMALEEQF  101
+            +ISC+I   AQPET++ V+STIAKQLS+DE TVTP TKF DLGADSLDTVEIMMALEE+F
+Sbjct  67   AISCSI---AQPETLQTVQSTIAKQLSVDESTVTPSTKFADLGADSLDTVEIMMALEEKF  123
+
+Query  102  GVSIGESGAESIATVQEAADLIEKVKA  128
+            GVSIGE GAE+IATVQ+AADLIEKVK+
+Sbjct  124  GVSIGEGGAENIATVQDAADLIEKVKS  150
+
+
+
+
+>Acyl carrier protein (ACP) [Artemisia annua]
+Sequence ID: PWA43563.1 Length: 143
+Range 1: 59

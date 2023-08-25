@@ -87,3 +87,19 @@ awk '$1 == "GWHBJVT00000005" && $3 == "mRNA" && $4 > 6100000 && $5 < 6400000' GW
 
 #5. Blast polished manually in excel
 #6. Blasting to version 3 of the genome
+
+### CHROMOSOME 4
+awk '$1 == "GWHBJVT00000001" && $3 == "mRNA" && $4 > 700000 && $5 < 1100000' GWHBJVT00000000.gff
+awk '$1 == "GWHBJVT00000001" && $3 == "mRNA" && $4 > 50000000 && $5 < 51000000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 700000 && $5 < 1300000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 53400000 && $5 < 53500000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 14000000 && $5 < 14500000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 46200000 && $5 < 46600000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 59000000 && $5 < 60000000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+awk '$1 == "GWHBJVT00000004" && $3 == "mRNA" && $4 > 14600000 && $5 < 15200000' GWHBJVT00000000.gff >> cand_genes_allchr.gff
+
+
+
+
+awk -F'[=;]' '{print $1}' cand_genes_allchr.gff
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_allchr.gene.names > cline.genes.fasta
