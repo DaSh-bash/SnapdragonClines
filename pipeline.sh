@@ -101,5 +101,31 @@ awk '$1 == "GWHBJVT00000004" && $3 == "mRNA" && $4 > 14600000 && $5 < 15200000' 
 
 
 
-awk -F'[=;]' '{print $1}' cand_genes_allchr.gff
+awk -F'[=;]' '{print $1}' cand_genes_RosEl_mRNA.gff
 seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_allchr.gene.names > cline.genes.fasta
+
+
+
+#### GWAS project
+
+awk '$1 == "GWHBJVT00000006" && $4 > 5250000 && $5 < 5350000' GWHBJVT00000000.gff >> cand_genes_RosEl.gff
+awk '$1 == "GWHBJVT00000006" && $3 == "mRNA" && $4 > 5250000 && $5 < 5350000' GWHBJVT00000000.gff >> cand_genes_RosEl_mRNA.gff
+awk -F'[=;]' '{print $4}' cand_genes_RosEl_mRNA.gff > cand_genes_RosEl.gene.names
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_RosEl.gene.names > RosEl.genes.fasta
+
+#Wrong region
+
+awk '$1 == "GWHBJVT00000006" && $4 > 52500000 && $5 < 53500000' GWHBJVT00000000.gff >> cand_genes_RosEl2.gff
+awk '$1 == "GWHBJVT00000006" && $3 == "mRNA" && $4 > 52500000 && $5 < 53500000' GWHBJVT00000000.gff >> cand_genes_RosEl2_mRNA.gff
+awk -F'[=;]' '{print $4}' cand_genes_RosEl2_mRNA.gff > cand_genes_RosEl2.gene.names
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_RosEl2.gene.names > RosEl2.genes.fasta
+
+interproscan.sh -i RosEl2.genes.fasta -t p -dp -pa -appl Pfam,ProDom-2006.1,SuperFamily-1.75 --goterms --iprlookup
+
+awk -F'[=;]' '{print $4}' RosEl2.genes.fasta.gff3
+
+awk -F'\t' '/signature_desc=/ {match($0, /signature_desc=[^;]+/); desc = substr($0, RSTART, RLENGTH); split(desc, desc_arr, "="); print $1, desc_arr[2]}' RosEl2.genes.fasta.gff3
+
+blastp -db nr -query RosEl2.genes.fasta -out RosEl2.genes.fasta.tab -outfmt 6 -num_threads 8
+
+emapper.py --cpu 20 --mp_start_method forkserver --data_dir /dev/shm/ -o out --output_dir /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks --temp_dir /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks --override -m diamond --dmnd_ignore_warnings --dmnd_algo ctg -i /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks/queries.fasta --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 --itype proteins --tax_scope auto --target_orthologs all --go_evidence non-electronic --pfam_realign none --report_orthologs --decorate_gff yes --excel > /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks/emapper.out 2> /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks/emapper.err
