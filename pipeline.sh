@@ -129,3 +129,45 @@ awk -F'\t' '/signature_desc=/ {match($0, /signature_desc=[^;]+/); desc = substr(
 blastp -db nr -query RosEl2.genes.fasta -out RosEl2.genes.fasta.tab -outfmt 6 -num_threads 8
 
 emapper.py --cpu 20 --mp_start_method forkserver --data_dir /dev/shm/ -o out --output_dir /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks --temp_dir /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks --override -m diamond --dmnd_ignore_warnings --dmnd_algo ctg -i /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks/queries.fasta --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 --itype proteins --tax_scope auto --target_orthologs all --go_evidence non-electronic --pfam_realign none --report_orthologs --decorate_gff yes --excel > /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks/emapper.out 2> /emapper_web_jobs/emapper_jobs/user_data/MM_plurieks/emapper.err
+
+
+
+
+### January 15 2025 ###
+New tasks:
+Chr2: 51.6 to 55.6 MB (with a focus on Flavia)
+Chr6: 50.5 to 55.5 MB (with a focus on Ros/El)
+
+Needs annotation: Chr2: 51600000 - 53437243
+Needs annotation: Chr2: 53492008 - 55600000
+Needs annotation: Chr6: 50500000 - 52500000
+Needs annotation: Chr6: 53500000 - 55500000
+
+sftp daria@rackham.uppmax.uu.se
+/crex/proj/uppstore2017185/b2014034_nobackup/Dasha/WGS
+
+#Filling in this https://docs.google.com/spreadsheets/d/1LOEeTx7Ex4m9erqCK1UAEsikrnfxR6uvTZIUOyTq8iY/edit?gid=674389465#gid=674389465
+awk '$1 == "GWHBJVT00000002" && $4 > 51600000 && $5 < 53500000' GWHBJVT00000000.gff >> cand_genes_FlaveaUpstream.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 51600000 && $5 < 53500000' GWHBJVT00000000.gff >> cand_genes_FlaveaUpstream_mRNA.gff
+awk -F'[=;]' '{print $4}' cand_genes_FlaveaUpstream_mRNA.gff > cand_genes_FlaveaUpstream_mRNA.gene.names
+module load bioinfo-tools seqtk
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_FlaveaUpstream_mRNA.gene.names > cand_genes_FlaveaUpstream_mRNA.genes.fasta
+
+awk '$1 == "GWHBJVT00000002" && $4 > 53500000 && $5 < 55600000' GWHBJVT00000000.gff >> cand_genes_FlaveaDownstream.gff
+awk '$1 == "GWHBJVT00000002" && $3 == "mRNA" && $4 > 53500000 && $5 < 55600000' GWHBJVT00000000.gff >> cand_genes_FlaveaDownstream_mRNA.gff
+awk -F'[=;]' '{print $4}' cand_genes_FlaveaDownstream_mRNA.gff > cand_genes_FlaveaDownstream_mRNA.gene.names
+module load bioinfo-tools seqtk
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_FlaveaDownstream_mRNA.gene.names > cand_genes_FlaveaDownstream_mRNA.genes.fasta
+
+awk '$1 == "GWHBJVT00000006" && $4 > 50500000 && $5 < 52500000' GWHBJVT00000000.gff >> cand_genes_RosElUpstream.gff
+awk '$1 == "GWHBJVT00000006" && $3 == "mRNA" && $4 > 50500000 && $5 < 52500000' GWHBJVT00000000.gff >> cand_genes_RosElUpstream_mRNA.gff
+awk -F'[=;]' '{print $4}' cand_genes_RosElUpstream_mRNA.gff > cand_genes_RosElUpstream_mRNA.gene.names
+module load bioinfo-tools seqtk
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_RosElUpstream_mRNA.gene.names > cand_genes_RosElUpstream_mRNA.genes.fasta
+
+awk '$1 == "GWHBJVT00000006" && $3 == "mRNA" && $4 > 53500000 && $5 < 55500000' GWHBJVT00000000.gff >> cand_genes_RosElDownstream_mRNA.gff
+awk -F'[=;]' '{print $4}' cand_genes_RosElDownstream_mRNA.gff > cand_genes_RosElDownstream_mRNA.gene.names
+#module load bioinfo-tools seqtk
+seqtk subseq GWHBJVT00000000.Protein.simple_headers.faa cand_genes_RosElDownstream_mRNA.gene.names > cand_genes_RosElDownstream_mRNA.genes.fasta
+
+## All genes extracted
